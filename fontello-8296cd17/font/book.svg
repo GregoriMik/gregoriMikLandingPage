@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2019 by original authors @ fontello.com</metadata>
+<defs>
+<font id="book" horiz-adv-x="1000" >
+<font-face font-family="book" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="up-bold" unicode="&#xe800;" d="M760 336l-192 0 0-350-376 0 0 350-192 0 380 380z" horiz-adv-x="760" />
+
+<glyph glyph-name="flow-cross" unicode="&#xe801;" d="M209 133q45-16 74-57t30-91q0-65-46-110t-111-46-110 46-46 110q0 50 29 91t75 57l0 35q0 97 76 166 49-40 95-60-66-39-66-106l0-35z m-53-199q22 0 37 15t16 36-16 37-37 16-37-16-15-37 15-36 37-15z m469 634q-45 16-74 57t-30 90q0 65 46 111t111 46 110-46 46-111q0-50-30-90t-75-57l0-18q0-105-79-180-44 37-95 57 70 43 70 123l0 18z m53 199q-22 0-37-15t-16-37 16-37 37-15 36 15 15 37-15 37-36 15z m48-634q48-15 78-56t30-92q0-65-46-110t-110-46-111 46-46 110q0 49 28 89t72 58q-13 71-72 118t-133 48q-117 0-205 77t-103 193q-48 15-78 55t-30 92q0 65 46 111t110 46 111-46 46-111q0-48-28-88t-72-58q13-71 71-119t132-47q118 0 206-78t104-192z m-570 634q-21 0-37-15t-15-37 15-37 37-15 37 15 16 37-16 37-37 15z m522-833q21 0 36 15t15 36-15 37-36 16-37-16-16-37 16-36 37-15z" horiz-adv-x="834" />
+
+<glyph glyph-name="address-book" unicode="&#xe802;" d="M0-150l0 1000 1000 0 0-178-109 0 0-95 109 0 0-178-109 0 0-98 109 0 0-177-109 0 0-96 109 0 0-178-1000 0z m193 285l504 0 0 155-187 111q37 19 58 54t22 77q0 58-42 101t-103 43-102-43-42-101q0-43 22-77t58-54l-188-111 0-155z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

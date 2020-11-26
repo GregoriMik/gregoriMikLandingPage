@@ -1,0 +1,28 @@
+{
+  "name": "book",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "8c8f768607b8fc4c92c0f85b488e87e8",
+      "css": "up-bold",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "e45a44236f3f1ac013a1287bb60cd965",
+      "css": "flow-cross",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "361e7d7e271443ea2c48443142dbe404",
+      "css": "address-book",
+      "code": 59394,
+      "src": "elusive"
+    }
+  ]
+}
